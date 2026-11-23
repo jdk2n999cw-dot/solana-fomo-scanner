@@ -1,0 +1,7 @@
+requests
+python-dotenv
+solders
+solana
+pyttsx3
+SpeechRecognition
+PyAudio
